@@ -1,0 +1,57 @@
+1-) Look at the code given to you
+
+2-) Take modulo of your student number by 51 and pick the hexadecimal string
+
+3-) Write bubblesort algorithm on 8086 assembly
+
+mod 51 = 0    736f796d73
+mod 51 = 1    6f6c797373
+mod 51 = 2    79746b6f746e
+mod 51 = 3    7070697968
+mod 51 = 4    7069686f70
+mod 51 = 5    696c6c7968
+mod 51 = 6    677373796c6f
+mod 51 = 7    6970796d67
+mod 51 = 8    67726c6f79
+mod 51 = 9    687367746f
+mod 51 = 10    6f66797274
+mod 51 = 11    7079706f6c66
+mod 51 = 12    6f666f6c72
+mod 51 = 13    6974727366
+mod 51 = 14    6c7966696c
+mod 51 = 15    656d707974
+mod 51 = 16    6f6666746572
+mod 51 = 17    6469797465
+mod 51 = 18    706f63707968
+mod 51 = 19    636f7973686f
+mod 51 = 20    696c6c796368
+mod 51 = 21    6f73626f74
+mod 51 = 22    6c626f706f
+mod 51 = 23    626f70797369
+mod 51 = 24    6269796c6c
+mod 51 = 25    7262727965
+mod 51 = 26    62696f776c6c
+mod 51 = 27    6c656f7762
+mod 51 = 28    6c6c796265
+mod 51 = 29    6c6f6c627765
+mod 51 = 30    626965676e
+mod 51 = 31    6965746266
+mod 51 = 32    6566626579
+mod 51 = 33    6e6f616e79
+mod 51 = 34    6d746f6172
+mod 51 = 35    6d6c6f747361
+mod 51 = 36    6c616f796c
+mod 51 = 37    6f776c616c
+mod 51 = 38    6f6c61746c
+mod 51 = 39    6f6f746661
+mod 51 = 40    6166786669
+mod 51 = 41    6173676569
+mod 51 = 42    706f616474
+mod 51 = 43    6461747065
+mod 51 = 44    636173746f63
+mod 51 = 45    636373736561
+mod 51 = 46    636170636574
+mod 51 = 47    636e61746563
+mod 51 = 48    62746f7261
+mod 51 = 49    6162746f62
+mod 51 = 50    6261796265
