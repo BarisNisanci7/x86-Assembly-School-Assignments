@@ -4,7 +4,7 @@
 
    * String Decryption
    * Fibonacci
-   * Multiply 64-bit Numbers
+   * Multiply two 64-bit Numbers with 16 bit microprocessor
    * Bubble Sort
 
 
