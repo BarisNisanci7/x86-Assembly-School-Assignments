@@ -18,10 +18,7 @@ h(g(f(x))) which:
    * g(x)=x/2+47H
    * h(x)=xmod7BH
 
-You should use at least 3 string instructions; using less than 3 string instructions will result in fewer points for labwork.
-
-Hint: The value of the biggest character is 87H, and the smallest character is 17H.
-
+The value of the biggest character is 87H, and the smallest character is 17H.
 
 
 >  **Development Environment: It is recommended to use EMU8086**
